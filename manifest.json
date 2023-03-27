@@ -1,8 +1,11 @@
 {
   "domain": "bilibili_live",
   "name": "Bilibili Live",
-  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/Posartor/bilibili_live",
   "dependencies": [],
-  "requirements": ["requests"],
-  "config_flow": true
+  "codeowners": ["@Posartor"],
+  "requirements": ["requests==2.26.0", "voluptuous==0.12.2"],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
 }
