@@ -1,0 +1,18 @@
+{
+  "config": {
+    "title": "Bilibili Live",
+    "step": {
+      "user": {
+        "title": "设置Bilibili Live集成",
+        "data": {
+          "uid": "主播UID",
+          "name": "自定义名称"
+        }
+      }
+    },
+    "abort": {
+      "uid_already_configured": "该UID已经配置过了，请输入另一个UID"
+    }
+  }
+}
+

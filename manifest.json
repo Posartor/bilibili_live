@@ -1,0 +1,8 @@
+{
+  "domain": "bilibili_live",
+  "name": "Bilibili Live",
+  "version": "1.0.0",
+  "dependencies": [],
+  "requirements": ["requests"],
+  "config_flow": true
+}
