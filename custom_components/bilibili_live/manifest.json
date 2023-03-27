@@ -5,7 +5,7 @@
   "documentation": "https://github.com/Posartor/bilibili_live",
   "dependencies": [],
   "codeowners": ["@Posartor"],
-  "requirements": ["requests==2.26.0", "voluptuous==0.12.2"],
+  "requirements": ["requests", "voluptuous"],
   "iot_class": "cloud_polling",
   "version": "1.0.0"
 }
